@@ -4,6 +4,14 @@ Panel administrativo en **Python GUI** para gestionar servidores de **The Simpso
 
 Proyecto creado por **Azzlaer + ChatGPT (OpenAI)** para la comunidad **LatinBattle.com**.
 
+![Captura 0](https://github.com/Azzlaer/Panel_SHARMPServer_Pro/blob/main/1.png?raw=true)
+![Captura 1](https://github.com/Azzlaer/Panel_SHARMPServer_Pro/blob/main/2.png?raw=true)
+![Captura 2](https://github.com/Azzlaer/Panel_SHARMPServer_Pro/blob/main/3.png?raw=true)
+![Captura 3](https://github.com/Azzlaer/Panel_SHARMPServer_Pro/blob/main/4.png?raw=true)
+![Captura 4](https://github.com/Azzlaer/Panel_SHARMPServer_Pro/blob/main/5.png?raw=true)
+![Captura 5](https://github.com/Azzlaer/Panel_SHARMPServer_Pro/blob/main/6.png?raw=true)
+![Captura 6](https://github.com/Azzlaer/Panel_SHARMPServer_Pro/blob/main/7.png?raw=true)
+
 ---
 
 ## 📌 Descripción
